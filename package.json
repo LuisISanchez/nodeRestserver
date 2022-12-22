@@ -19,7 +19,7 @@
     "express-subdomain": "^1.0.5",
     "google-auth-library": "^4.2.5",
     "graphql": "^0.13.2",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "log4js": "^3.0.1",
     "mongoose": "^5.7.5",
     "mongoose-unique-validator": "^2.0.1",
